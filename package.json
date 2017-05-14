@@ -1,0 +1,12 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "simple logger for node",
+  "main": "index.js",
+  "repository": "https://github.com/benhinchley/another-log",
+  "author": "Benjamin Hinchley <benjaminhinchley@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
